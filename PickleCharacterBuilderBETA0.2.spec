@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['CharacterBuilderBETA.py'],
+    ['PickleCharacterBuilderBETA0.2.py'],
     pathex=[],
     binaries=[],
     datas=[],
@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='CharacterBuilderBETA',
+    name='PickleCharacterBuilderBETA0.2',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
