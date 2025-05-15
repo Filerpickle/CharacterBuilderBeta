@@ -1,5 +1,5 @@
 for any inquerys or issues dm 
-# lunxpanda aka Xion
+### lunxpanda aka Xion
 on discord!
 
 # CharacterBuilderBeta
